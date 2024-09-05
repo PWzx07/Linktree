@@ -1,0 +1,66 @@
+img{
+    width: 160px;
+    height: 130px;
+    border-radius: 75px;
+    border: solid rgb(0, 0, 0) 1px;
+    box-shadow: 14px 10px 8px 1px rgb(0, 0, 0);
+}
+h2{
+    font-size: 18px;
+}
+body{
+    background-color: rgb(170, 235, 224);
+    font-family: Arial;
+    color: rgb(236, 136, 64);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+a{
+    background-color: rgb(236, 136, 64);
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    color: rgb(106, 90, 205);
+}
+#instagram{
+    background-image: url(./instagram-logo.webp);
+    background-size: cover;
+    background-position: center;
+    width: 500px;
+    height: 20px;
+    font-weight:bold;
+    color: coral;
+}
+#youtube{
+    background-image: url(./8gzcr6RpGStvZFA2qRt4v6-320-80.webp);
+    background-size: cover;
+    background-position: center;
+    width: 500px;
+    height: 20px;
+    font-weight:bold;
+    color: red;
+}
+#github{
+    background-image: url(./8562a9a5-a1e4-4722-9ec7-47ebccd5901e.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 500px;
+    height: 20px;
+    font-weight:bold;
+    color: purple;
+}
+#portfolio{
+    background-image: url(./Design\ sem\ nome.png);
+    background-size: cover;
+    background-position: center;
+    width: 500px;
+    height: 20px;
+    color: green;
+    font-weight:bold;
+}
